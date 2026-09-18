@@ -12,11 +12,12 @@ public class Student {
     // TODO: add fields: studentId (String), name (String), gpa (double)
     String studentId;
     String name;
+    double gpa;
     /**
      * Student constructor.
      *
      * @param studentId Student identification number
-     * @param name      Student's full name
+     * @param name      Student's full name tes
      * @param gpa       Grade Point Average (0.0 - 4.0)
      */
     public Student(String studentId, String name, double gpa) {
