@@ -12,7 +12,6 @@ public class Student {
     // TODO: add fields: studentId (String), name (String), gpa (double)
     String studentId;
     String name;
-    double gpa;
     /**
      * Student constructor.
      *
