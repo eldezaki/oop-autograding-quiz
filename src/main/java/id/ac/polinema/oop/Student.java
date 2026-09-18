@@ -1,7 +1,7 @@
 package id.ac.polinema.oop;
 
 /**
- * Student class.
+ * Student class.a
  *
  * TASK: Complete every section marked TODO below.
  * Do not change the class name, method names, or method signatures —
