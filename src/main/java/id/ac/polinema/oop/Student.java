@@ -30,6 +30,7 @@ public class Student {
 
     public String getStudentId() {
         // TODO: return studentId
+        return this.studentId;
     }
 
     public String getName() {
