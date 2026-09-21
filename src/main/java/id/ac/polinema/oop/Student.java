@@ -53,12 +53,10 @@ public class Student {
      */
     public String getPredicate() {
         // TODO: implement the predicate logic per the rules above
-        // if (this.gpa >= 3.5) {
-        //     return "Cum Laude";
-        // } else if (this.gpa >= 3.0) {
-        //     return "Very Satisfactory";
-        // } else {
-        //     return "Satisfactory";
-        // }
+        if (this.gpa >= 3.5) {
+            return "Cum Laude";
+        } else {
+            return "Satisfactory";
+        }
     }
 }
